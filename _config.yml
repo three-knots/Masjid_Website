@@ -1,0 +1,11 @@
+# First section copied from https://github.com/pages-themes/cayman?tab=readme-ov-file 
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Masjid Website Development Project
+description: Collaboration to containerize and distribute a pre-packaged solution for masjid managment and engagement.
+
+# Additionally, you may choose to set the following optional variables:
+
+# show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
