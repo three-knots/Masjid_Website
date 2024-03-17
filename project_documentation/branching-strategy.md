@@ -8,6 +8,7 @@ Pull down the master branch
 
 Create a new branch for your feature
 Give it a relevant and easily identifiable name.
+
 My recommendation is to append the jira story so we can easily find the related task. 
 
  “{jira story}/{your-feature-name}“
