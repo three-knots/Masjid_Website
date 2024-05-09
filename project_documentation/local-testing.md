@@ -9,11 +9,10 @@ Download Docker for your local CLI environment.
 [Docker Desktop (GUI)](https://docs.docker.com/desktop/install/windows-install/)
 
 Download the docker image we are going to be using for testing
-`Docker pull bretfisher/jekyll-serve `
+`docker pull bretfisher/jekyll-serve`
 
 Change to your local directory where you have your github repo files
 `cd {localdirectory}/Masjid_Website`
 
-Serve page locally using 
+Serve page locally using
 `docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve`
-
